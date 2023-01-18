@@ -23,9 +23,28 @@
     monospace;
 }
 
-.Text {
+.Icons {
   margin-top: 3vmin;
   font-size: 3vmin;
+  align-items: center;
   font-family: source-code-pro, Menlo, Monaco,
   monospace;
 }
+
+.Icon { 
+  height: 6vmin;
+  margin: 1vmin;
+  margin-left: 2vmin;
+  margin-right: 2vmin;
+}
+
+.Text {
+  margin-top: 3vmin;
+  margin-left: 5vmin;
+  margin-right: 5vmin;
+  font-size: 3vmin;
+  text-align: left;
+  font-family: source-code-pro, Menlo, Monaco,
+  monospace;
+}
+

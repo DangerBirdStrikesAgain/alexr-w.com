@@ -1,0 +1,17 @@
+okay so run 
+cd my-webpage
+npm install -update
+
+# Starts the dev server on localhost:3000
+npm start
+yarn build 
+# or perhaps try
+# npm run build
+# Then upload all the files in the build folder to public_html/static this is a thing you find online in the cpanel of your bluehost
+
+
+# HELPFUL(ish)
+# https://round.fun/2020/04/18/bluehost-how-to-run-a-react-website/
+# https://rockiger.com/en/easily-embed-react-apps-into-wordpress-with-reactpress-plugin/#g0df03eb38031
+# https://alexr-w.com/wp-admin/admin.php?page=bluehost#/settings
+# https://cpanel-box5536.bluehost.com/cpsess4424096384/frontend/bluehost/index.html?webpro=0&login=1&post_login=78947467449179
