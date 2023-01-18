@@ -22,3 +22,10 @@
   font-family: source-code-pro, Menlo, Monaco,
     monospace;
 }
+
+.Text {
+  margin-top: 3vmin;
+  font-size: 3vmin;
+  font-family: source-code-pro, Menlo, Monaco,
+  monospace;
+}
