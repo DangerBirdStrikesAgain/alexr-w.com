@@ -15,3 +15,9 @@ yarn build
 # https://rockiger.com/en/easily-embed-react-apps-into-wordpress-with-reactpress-plugin/#g0df03eb38031
 # https://alexr-w.com/wp-admin/admin.php?page=bluehost#/settings
 # https://cpanel-box5536.bluehost.com/cpsess4424096384/frontend/bluehost/index.html?webpro=0&login=1&post_login=78947467449179
+bluehost - https://www.heroku.com/ - also 404 page
+
+
+# TODO 
+404 page
+DigitalClothing
